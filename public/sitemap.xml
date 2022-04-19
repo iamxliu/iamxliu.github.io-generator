@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://iamxliu.github.io/posts/</loc>
+    <lastmod>2022-04-19T09:20:22+08:00</lastmod>
+  </url><url>
+    <loc>https://iamxliu.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2022-04-19T09:20:22+08:00</lastmod>
+  </url><url>
+    <loc>https://iamxliu.github.io/</loc>
+    <lastmod>2022-04-19T09:20:22+08:00</lastmod>
+  </url><url>
+    <loc>https://iamxliu.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2022-04-18T09:38:00+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-04-18T09:38:00+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-04-18T09:38:00+08:00</lastmod>
-  </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://iamxliu.github.io/posts/my-first-post/</loc>
     <lastmod>2022-04-18T08:24:21+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://iamxliu.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://iamxliu.github.io/tags/</loc>
   </url>
 </urlset>
