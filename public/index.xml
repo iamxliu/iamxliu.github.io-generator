@@ -13,7 +13,7 @@
       <pubDate>Tue, 19 Apr 2022 09:20:22 +0800</pubDate>
       
       <guid>https://iamxliu.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
-      <description></description>
+      <description>Hugo操作流程 1. brew install hugo 2. hugo version 3. hugo new site iamxliu.github.io-generator 4. cd iamxliu.github.io-generator 5. git init 6. git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke 7. echo theme = \&amp;#34;ananke\&amp;#34; &amp;gt;&amp;gt; config.toml 8. hugo new posts/my-first-post.md  draft: false  9. hugo server -D 10. Open up config.toml in a text editor  zh-Hans http://initialdynamics.xyz/ https://iamxliu.github.io/  11. hugo -D 12. 新建.gitignore文件 加入/public/ 13. cd public 14. git add . 15.</description>
     </item>
     
     <item>
