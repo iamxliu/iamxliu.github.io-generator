@@ -1,4 +1,4 @@
-baseURL = 'https://iamxliu.github.io/'
+baseURL = 'https://iamxliu.github.io/cd'
 languageCode = 'zh-Hans'
 title = '星星的博客'
 theme = "ananke"

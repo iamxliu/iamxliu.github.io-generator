@@ -2,35 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 星星的博客</title>
-    <link>https://iamxliu.github.io/posts/</link>
+    <link>https://iamxliu.github.io/cd/posts/</link>
     <description>Recent content in Posts on 星星的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Tue, 19 Apr 2022 09:20:22 +0800</lastBuildDate><atom:link href="https://iamxliu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2022 21:16:03 +0800</lastBuildDate><atom:link href="https://iamxliu.github.io/cd/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>包冲突</title>
+      <link>https://iamxliu.github.io/cd/posts/%E5%8C%85%E5%86%B2%E7%AA%81/</link>
+      <pubDate>Tue, 19 Apr 2022 21:16:03 +0800</pubDate>
+      
+      <guid>https://iamxliu.github.io/cd/posts/%E5%8C%85%E5%86%B2%E7%AA%81/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>如何用Hugo搭建个人博客</title>
-      <link>https://iamxliu.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://iamxliu.github.io/cd/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Tue, 19 Apr 2022 09:20:22 +0800</pubDate>
       
-      <guid>https://iamxliu.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://iamxliu.github.io/cd/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
       <description>Hugo操作流程 1. brew install hugo 2. hugo version 3. hugo new site iamxliu.github.io-generator 4. cd iamxliu.github.io-generator 5. git init 6. git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke 7. echo theme = \&amp;#34;ananke\&amp;#34; &amp;gt;&amp;gt; config.toml 8. hugo new posts/my-first-post.md  draft: false  9. hugo server -D 10. Open up config.toml in a text editor  zh-Hans http://initialdynamics.xyz/ https://iamxliu.github.io/  11. hugo -D 12. 新建.gitignore文件 加入/public/ 13. cd public 14. git add . 15.</description>
     </item>
     
     <item>
       <title>第二篇博客</title>
-      <link>https://iamxliu.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://iamxliu.github.io/cd/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Mon, 18 Apr 2022 09:38:00 +0800</pubDate>
       
-      <guid>https://iamxliu.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://iamxliu.github.io/cd/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
       <description>成功了 你也试一下！</description>
     </item>
     
     <item>
       <title>博客开通了</title>
-      <link>https://iamxliu.github.io/posts/my-first-post/</link>
+      <link>https://iamxliu.github.io/cd/posts/my-first-post/</link>
       <pubDate>Mon, 18 Apr 2022 08:24:21 +0800</pubDate>
       
-      <guid>https://iamxliu.github.io/posts/my-first-post/</guid>
+      <guid>https://iamxliu.github.io/cd/posts/my-first-post/</guid>
       <description>大家好 我的博客开通了，欢迎大家观看。</description>
     </item>
     
